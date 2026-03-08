@@ -1,0 +1,2 @@
+Niyati ENTC-B-13
+Description: Today's class was about the basic algorithms used in machine learning. We covered linear regression, logistic regression, the mathematics behind it and the corresponding coding using numpy and scikit-learn.
